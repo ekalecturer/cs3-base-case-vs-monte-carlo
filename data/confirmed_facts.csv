@@ -1,0 +1,11 @@
+metric,value,unit,source
+base_case_npv,-7.46,USD million,Ugwuegbu 2013 abstract
+monte_carlo_mean_npv,30.79,USD million,Ugwuegbu 2013 abstract
+monte_carlo_std_dev,58.26,USD million,Ugwuegbu 2013 abstract
+probability_positive_npv,69.2,percent,Ugwuegbu 2013 abstract
+probability_negative_npv,30.8,percent,derived (100 - 69.2)
+value_driver_1,gold price,qualitative,Ugwuegbu 2013 abstract (sensitivity analysis)
+value_driver_2,gold grade,qualitative,Ugwuegbu 2013 abstract (sensitivity analysis)
+value_driver_3,strip ratio,qualitative,Ugwuegbu 2013 abstract (sensitivity analysis)
+value_driver_4,operating costs,qualitative,Ugwuegbu 2013 abstract (sensitivity analysis)
+gap_base_case_vs_mean,38.25,USD million,derived (30.79 - -7.46)

@@ -1,0 +1,13 @@
+{
+  "note": "Illustrative reconstruction: invented but plausible gold-mine inputs for the 4 confirmed value drivers, right-skewed triangular distributions for price and grade. Tuned to land near the paper's 4 headline figures, not to reproduce them exactly. See notebook section 4 for full disclosure.",
+  "base_case_npv_usd_million": -9.00,
+  "monte_carlo_mean_npv_usd_million": 33.75,
+  "monte_carlo_std_dev_usd_million": 45.21,
+  "probability_positive_npv_pct": 75.0,
+  "comparison_to_paper": {
+    "paper_base_case_npv_usd_million": -7.46,
+    "paper_mean_npv_usd_million": 30.79,
+    "paper_std_dev_usd_million": 58.26,
+    "paper_probability_positive_npv_pct": 69.2
+  }
+}
